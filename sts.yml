@@ -1,0 +1,7 @@
+--- 
+sts: 
+  mystic_user_id: 10
+  rollback_credit_feature: false
+  process_billable_hours_feature: false
+  mystic_project_identifier: spprt
+  morph_exchange_base_url: http://localhost:4000/rest_api/

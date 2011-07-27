@@ -1,0 +1,18 @@
+
+sts_issue: 
+  id: 9
+  created_on: <%= 3.days.ago.to_date.to_s(:db) %>
+  project_id: 7
+  updated_on: <%= 1.day.ago.to_date.to_s(:db) %>
+  priority_id: 8
+  subject: CSS does not reflect
+  fixed_version_id: 
+  category_id: 
+  description: CSS does not reflect.
+  tracker_id: 3
+  assigned_to_id: 
+  author_id: 10
+  status_id: 1
+  start_date: <%= 1.day.ago.to_date.to_s(:db) %>
+  due_date: <%= 10.day.from_now.to_date.to_s(:db) %>
+  acctg_type: 12

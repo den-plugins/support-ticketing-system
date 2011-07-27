@@ -1,0 +1,14 @@
+
+sts_project:
+  id: 7
+  created_on: 2006-07-19 19:13:59 +02:00
+  name: Support
+  updated_on: 2006-07-19 22:53:01 +02:00
+  description: Project to manage issue from mystic
+  homepage: 
+  is_public: false
+  identifier: spprt
+  parent_id: 
+  lft: 13
+  rgt: 14
+  show_update_option: true

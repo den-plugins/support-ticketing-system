@@ -1,0 +1,5 @@
+
+sts_enabled_modules: 
+  name: issue_tracking
+  project_id: 7
+  id: 16

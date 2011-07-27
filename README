@@ -1,0 +1,18 @@
+This engines plugin, Support Ticketing System, intends (as much as possible) to
+
+	- implement addition codes (new feature) away from "core redmine codes", and
+	- put all implementation codes (addition codes) away from the "core redmine codes",
+	  where they are initially written.
+
+
+Implementation codes, especially those "action" unit (as in new action)
+in "core controllers" are perfect to be transferred here.
+
+
+With this, we can manage both "core codes" and "addition codes" (thru engines plugin)
+perfectly.
+
+
+Disclaimer:
+Prior to this attempt, solutions of extracting already implemented codes (which are additions)
+in "core codes" are not yet all determine. Hence, this implies challenge once they are encountered.
